@@ -2,7 +2,7 @@
 
 
   
-![pic0](http://pb48jwobd.bkt.clouddn.com/SICP2.png)
+![pic0](http://pb48jwobd.bkt.clouddn.com/sicp.jpg)
 
 
 
