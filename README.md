@@ -1,12 +1,7 @@
-# 水水 2017 SICP 学习
+# SICP 学习
+
+<div align="center"> <img src="http://pb48jwobd.bkt.clouddn.com/sicp.jpg" width="500" height="400"/> </div>
 
 
-  
-![pic0](http://pb48jwobd.bkt.clouddn.com/sicp.jpg)
-
-
-
-2017 年暑假水水在学习 SICP （Structure and Interpretation of Computer Programs）时将自己做的一些答案放到了这里，作为刚刚接触编程才一年的小菜🐔 对于编辑器啊、函数式编程啊、递归和迭代的区别啊、以及模块化开发啊、解释器啊等等都还不是很懂，尽管这个仓库中已经存放了自己前两张的题目解答，但是还是能感觉到自己对于这本书的精髓还是没有很好的体会，所以创建了这个仓库为自己后面反复咀嚼这本书大号铺垫，相信如果耐心啃完了，自己对于编程思想也有了一个全新的境界，嗯加油呢⛽️
-
-
+## 这个仓库存放了 2017 年暑假学习 SICP （Structure and Interpretation of Computer Programs）时前两章练习的实现代码
 
